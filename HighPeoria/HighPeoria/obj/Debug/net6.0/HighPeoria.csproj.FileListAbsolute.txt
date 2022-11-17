@@ -1,0 +1,15 @@
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\obj\Debug\net6.0\HighPeoria.csproj.AssemblyReference.cache
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\obj\Debug\net6.0\HighPeoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\obj\Debug\net6.0\HighPeoria.AssemblyInfoInputs.cache
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\obj\Debug\net6.0\HighPeoria.AssemblyInfo.cs
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\obj\Debug\net6.0\HighPeoria.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\bin\Debug\net6.0\HighPeoria.exe
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\bin\Debug\net6.0\HighPeoria.deps.json
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\bin\Debug\net6.0\HighPeoria.runtimeconfig.json
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\bin\Debug\net6.0\HighPeoria.dll
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\bin\Debug\net6.0\HighPeoria.pdb
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\obj\Debug\net6.0\HighPeoria.dll
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\obj\Debug\net6.0\refint\HighPeoria.dll
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\obj\Debug\net6.0\HighPeoria.pdb
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\obj\Debug\net6.0\HighPeoria.genruntimeconfig.cache
+C:\Users\ashle\source\repos\HighPeoria\HighPeoria\obj\Debug\net6.0\ref\HighPeoria.dll
